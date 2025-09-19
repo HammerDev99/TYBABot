@@ -132,14 +132,15 @@ Este asistente se desarrolla como herramienta de apoyo para usuarios del Sistema
 ## 🙏 Agradecimientos
 
 - **Consejo Superior de la Judicatura** por el desarrollo del Sistema Justicia XXI Web (Tyba)
-- **Sala Administrativa** por la implementación gradual del sistema electrónico
-- **Mesa de Informática de la Cumbre Judicial Iberoamericana** por las buenas prácticas internacionales
 - **Despachos y Juzgados Judiciales** por su retroalimentación en la implementación del sistema
 - **Comunidad judicial colombiana** por su contribución a la transformación digital de la justicia
 
 ## 👤 Autor
 
-Desarrollado como herramienta de apoyo para facilitar el uso del Sistema Justicia XXI Web (Tyba) y democratizar el acceso a la información sobre procedimientos judiciales electrónicos.
+### 🎯 Desarrollador
+Adaptado y personalizado por [Daniel Arbeláez](https://github.com/HammerDev99) - Legal Tech Developer 🚀
+
+[GitHub](https://github.com/HammerDev99) | [Website](http://portfolio.sprintjudicial.com/) | [Blog](https://blog.sprintjudicial.com/) | [LinkedIn](https://www.linkedin.com/in/daniel-arbelaez-/) | [Instagram](https://www.instagram.com/daniel_arbe99/) | [Twitter](https://x.com/hammerdev99) | [YouTube](http://youtube.com/@daainti/videos) | [Email](mailto:arbe.94@hotmail.com)
 
 ---
 
